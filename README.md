@@ -1,6 +1,6 @@
 # PhysicalExerciseClassificationWithLSTM
 
-###DESCRIPTION
+### DESCRIPTION
 
 With this project I would like to recognize physical exercises with LSTM network.
 
